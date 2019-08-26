@@ -18,9 +18,8 @@ $ npm install months-list --save
 
 ```js
 var monthsForDropdown = require('months-list');
-
-var months=[]
 var months=monthsForDropdown()
+console.log("Months list:",months)
 
 ```
 
