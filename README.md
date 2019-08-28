@@ -26,4 +26,8 @@ console.log("Months list:",months)
 ## Author
 
 **Basavaraja V**
+## License
+
+Copyright © 2019, [Basavaraja V](https://github.com/BaSaVaRaJaV).
+Released under the [MIT license](https://github.com/BaSaVaRaJaV/months-list/blob/master/LICENSE).
 ***
