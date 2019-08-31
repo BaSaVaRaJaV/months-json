@@ -22,9 +22,13 @@ console.log("Months list:",months)
 
 ```
 ## Follow me on twitter
+<html>
+<body>
 <p align="left">
   <a class="btn-floating btn-sm btn-tw" type="button" role="button" href="https://twitter.com/BasavarajaV2"><i class="fab fa-twitter"></i></a>
 </p>
+</body>
+</html>  
 
 ## Support
 
