@@ -24,7 +24,7 @@ console.log("Months list:",months)
 ## Follow me on twitter
 [Basavaraja]("https://twitter.com/BasavarajaV2")
 
-**If you enjoy this , please consider [supporting me](https://www.paypal.me/rajdivya/20) for developing and maintaining this template.**
+**If you enjoy this , please consider [supporting me](https://www.paypal.me/rajdivya/1500) for developing and maintaining this.**
 
 <p align="center">
   <a href="https://www.paypal.me/rajdivya">
