@@ -22,8 +22,13 @@ var months=monthsForDropdown()
 console.log("Months list:",months)
 
 ```
-## Follow on twitter
-[Basavaraja](https://twitter.com/BasavarajaV2)
+## Follow me on twitter
+{::nomarkdown}
+
+<!-- HTML CODE-->
+<a class="btn-floating btn-sm btn-tw" type="button" role="button" href="https://twitter.com/BasavarajaV2"><i class="fab fa-twitter"></i></a>
+
+{:/}
 
 ## Author
 
