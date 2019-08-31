@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/rajdivya)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/rajdivya)
 # months-list [![NPM version](https://img.shields.io/npm/v/months-list.svg?style=flat)](https://www.npmjs.com/package/months-list)
 
 >  Gives an months list in JSON object
@@ -22,13 +22,7 @@ console.log("Months list:",months)
 
 ```
 ## Follow me on twitter
-<html>
-<body>
-<p align="left">
-  <a class="btn-floating btn-sm btn-tw" type="button" role="button" href="https://twitter.com/BasavarajaV2"><i class="fab fa-twitter"></i></a>
-</p>
-</body>
-</html>  
+[Basavaraja](https://twitter.com/BasavarajaV2)
 
 ## Support
 
