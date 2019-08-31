@@ -1,3 +1,4 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/rajdivya)
 # months-list [![NPM version](https://img.shields.io/npm/v/months-list.svg?style=flat)](https://www.npmjs.com/package/months-list)
 
 >  Gives an months list in JSON object
@@ -14,8 +15,6 @@ $ npm install months-list --save
 
 ## Usage
 
-
-
 ```js
 var monthsForDropdown = require('months-list');
 var months=monthsForDropdown()
@@ -23,12 +22,15 @@ console.log("Months list:",months)
 
 ```
 ## Follow me on twitter
-{::nomarkdown}
+[Basavaraja]("https://twitter.com/BasavarajaV2")
 
-<!-- HTML CODE-->
-<a class="btn-floating btn-sm btn-tw" type="button" role="button" href="https://twitter.com/BasavarajaV2"><i class="fab fa-twitter"></i></a>
+**If you enjoy this , please consider [supporting me](https://www.paypal.me/daattali/20) for developing and maintaining this template.**
 
-{:/}
+<p align="center">
+  <a href="https://www.paypal.me/rajdivya">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
+  </a>
+</p>
 
 ## Author
 
