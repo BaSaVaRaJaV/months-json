@@ -22,6 +22,8 @@ var months=monthsForDropdown()
 console.log("Months list:",months)
 
 ```
+## Follow on twitter
+[Basavaraja](https://twitter.com/BasavarajaV2)
 
 ## Author
 
