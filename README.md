@@ -23,7 +23,7 @@ console.log("Months list:",months)
 ```
 ## Follow me on twitter
 
-[Basavaraja]("https://twitter.com/BasavarajaV2")
+[Basavaraja](https://twitter.com/BasavarajaV2)
 
 ## Support
 
